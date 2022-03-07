@@ -43,7 +43,7 @@ nav ul {
   background-color: #719e07;
 }
 
-li:[target="external"] {
+[ref="external"] {
   background-color: #2694d8;
 }
 
