@@ -22,6 +22,14 @@ nav ul {
   color: #93a1a1;
 }
 
-dfn > .wrapper {
-  background-color: #b58900
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.dfn + strong {
+  color: #fff;
+}
+
+*/a :not.no-highlight {
+  background-color: #719e07;
 }
