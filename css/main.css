@@ -10,11 +10,11 @@ nav ul {
   font-family: sans-serif;
 }
 
-logo {
+.logo {
   text-transform: uppercase;
 }
 
-wrapper {
+.wrapper {
   background-color: #eee8d5;
 }
 
