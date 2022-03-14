@@ -42,7 +42,7 @@ nav ul {
   background-color: #719e07;
 }
 
-a [ref="external"] {
+* a[ref="external"] {
   background-color: #2694d8;
 }
 
